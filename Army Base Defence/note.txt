@@ -1,0 +1,1 @@
+There is no Library folder. It will be automatically added once trying to load it using Unity Hub.

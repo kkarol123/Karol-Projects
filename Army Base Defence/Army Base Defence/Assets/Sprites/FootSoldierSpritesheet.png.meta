@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: cd44e783c1a453f4bbf0719c61838da6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6958126373943309307
+    second: FootSoldierSpritesheet_0
+  - first:
+      213: 7878982672394394298
+    second: FootSoldierSpritesheet_1
+  - first:
+      213: -561843112673800689
+    second: FootSoldierSpritesheet_2
+  - first:
+      213: -9058636123962333236
+    second: FootSoldierSpritesheet_3
+  - first:
+      213: 2488570763140794954
+    second: FootSoldierSpritesheet_4
+  - first:
+      213: -8872278746504727572
+    second: FootSoldierSpritesheet_5
+  - first:
+      213: 3486674634778866028
+    second: FootSoldierSpritesheet_6
+  - first:
+      213: -9164645117483397545
+    second: FootSoldierSpritesheet_7
+  - first:
+      213: 2822317529683766053
+    second: FootSoldierSpritesheet_8
+  - first:
+      213: -2798412758541312370
+    second: FootSoldierSpritesheet_9
+  - first:
+      213: 2137143715912675892
+    second: FootSoldierSpritesheet_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FootSoldierSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1008
+        width: 238
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c05dabde4cf6f90800000000000000
+      internalID: -6958126373943309307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delete
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1354
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba9683fef4c75d60800000000000000
+      internalID: 7878982672394394298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSoldierSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1008
+        width: 238
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e04917aaee338f0800000000000000
+      internalID: -561843112673800689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSoldierSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1008
+        width: 238
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc724b1a072494280800000000000000
+      internalID: -9058636123962333236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delet
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1354
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.42585754, y: 0.7965088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a0e6f8ced298220800000000000000
+      internalID: 2488570763140794954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSoldierSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 522
+        width: 238
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce37656cc755fd480800000000000000
+      internalID: -8872278746504727572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSoldierSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 49
+        width: 238
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61fb5d6b18236030800000000000000
+      internalID: 3486674634778866028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSoldierSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 522
+        width: 238
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e42ef62d3a0d080800000000000000
+      internalID: -9164645117483397545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSoldierSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 49
+        width: 238
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ba82807d2ea2720800000000000000
+      internalID: 2822317529683766053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSoldierSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 522
+        width: 238
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7a85e9cf8c8af4b8d5a6664f84df23
+      internalID: 1063876530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSoldierSpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 49
+        width: 238
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5fb5a46dc29cb48b10564cd71c26ae
+      internalID: -1345884464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ab94008c394571345aae03db1f204231
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2: -9058636123962333236
+      FootSoldierSpritesheet_0: -6958126373943309307
+      FootSoldierSpritesheet_1: -561843112673800689
+      FootSoldierSpritesheet_10: -1345884464
+      FootSoldierSpritesheet_2: -9058636123962333236
+      FootSoldierSpritesheet_3: -8872278746504727572
+      FootSoldierSpritesheet_4: -9164645117483397545
+      FootSoldierSpritesheet_5: 1063876530
+      FootSoldierSpritesheet_6: 3486674634778866028
+      FootSoldierSpritesheet_8: 2822317529683766053
+      delet: 2488570763140794954
+      delete: 7878982672394394298
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
